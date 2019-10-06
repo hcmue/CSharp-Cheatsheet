@@ -1,5 +1,5 @@
-# CSharp-Cheatsheet
-C# cheatsheet
+# C# Cheatsheet
+Fork from https://github.com/jwill9999/C-Sharp-Cheatsheet, edited by HIENLTH
 
 # Index<br>
 [Comments](#Comments)<br>
